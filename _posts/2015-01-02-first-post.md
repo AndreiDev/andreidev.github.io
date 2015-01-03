@@ -11,6 +11,10 @@ image:
   creditlink: 
 ---
 
-# New year - new blog
+## New year - new blog
 
-First of all I want to thank the guys at <a href="http://jekyllrb.com/">jekyll</a> for the opportunity to use github pages to easily create this blog, and the <a href="https://github.com/mmistakes/minimal-mistakes">minimal mistakes theme</a> developers that made it easy to get started with! I really didn't want to use wordpress for that, and you made that possible and elegant!
+First of all I want to thank the guys at <a href="http://jekyllrb.com/">jekyll</a> for the opportunity to use github pages to easily create this blog, and the <a href="https://github.com/mmistakes/minimal-mistakes">minimal mistakes theme</a> developers that made it easy to get started with! I really didn't want to use wordpress for that, and you made that possible and in a very elegant way!
+
+### What this blog will be about?
+Primarily web technologies - backend, frontend, databases, APIs, etc...
+However, I might throw in some brain science, life hacking, and philosophy.
